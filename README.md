@@ -11,7 +11,7 @@ This project taught me how to develop iOS apps and the basic of swift2.
 ##  Some infomation
 
 * I don't know how the auto layout works so this app is only for devices with 4-inch display(iPhone 5,5S, iPod touch 6th gen)
-* This app is made by swift2. You need iOS9 and Xcode7 to use this.
+* This app is written in swift2. You need iOS9 and Xcode7 to use this.
 
 ---
 
