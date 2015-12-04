@@ -5,7 +5,7 @@
 Sample app for solving famous problem by swift2
 
 Josephus circle is one of the most famous computer science problem.
-I solved this problem during my programming class at my univ. And I really love this problem so I made this app. It is my first time to code in swift2, and I realize how nice the swift language is!
+I solved this problem in my programming class at my university. And I really love this problem so I made this app. It is my first time to code in swift2, and I realize how nice the swift language is!
 This project taught me how to develop iOS apps and the basic of swift2.
 
 ##  Some infomation
