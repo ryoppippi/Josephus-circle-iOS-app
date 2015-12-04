@@ -1,4 +1,7 @@
 # Josephus-circle-iOS-app
+<img src="./Screenshot/Home.jpg" width="320">
+<img src="./Screenshot/About.jpg" width="320">
+
 Sample app for solving famous problem by swift2
 
 Josephus circle is one of the most famous computer science problem.
